@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>프롬프트 띄우기</title>
+</head>
+<body>
+    <script>
+        prompt("좋아하는 숫자는?", "10");
+    </script>
+
+</body>
+</html>
