@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>공동경비구역 JSA</title>
+</head>
+<body>
+    <div><!--div는 구조-->
+        <h1>HTML &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;시작하기</h1>
+        <hr>
+        <h2><mark>&lt; 공동경비구역 JSA &gt;</mark></h2>
+        <img src="./images/jsa.jpg" alt="공동경비구역의 한 장면">
+        <p>지난 <b>2000년</b> 개봉당시 <i>높은 흥행성적을 기록했던 송강호 주연</i>의 
+            공동경비구역 <u>JSA가 헐리우드에서 리메이크된다.</u><br>
+            <sub>주연</sub> : <b><i>송강호, 이병헌</i></b><br>
+            <sup>줄거리</sup> : <q>비무장지대 수색중 지뢰를 밟아...</q>
+        </p>
+        <blockquote>
+            정우진의 도움으로<br>
+            다행히 목숨을 건진다<br>
+            이를 계기로....
+        </blockquote>
+        <address>wisdomyoungster@naver.com<br>
+        010-8212-6852</address>
+        <p>Copyright lim. All right reserved</p>
+    </div>
+</body>
+</html>
