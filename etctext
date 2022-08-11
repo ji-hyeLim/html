@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>텍스트 관련 태그</title>
+</head>
+<body>
+    <h1>기타 텍스트 관련 태그들</h1>
+        <del>\10,000</del> <ins>\6,000</ins>
+        <abbr title="Hyper Text Markup Language">HTML</abbr> <!--약어-->
+        <dfn title="웹 표준화 기구">W3C</dfn>
+        <p>오시는 길<small>(잘 찾아오세요!)</small></p>
+        <p><cite>그대가 곁에 없어도 나는 그대가 그립다</cite>류시화</p>
+        <code>
+            var num = 10;
+            var resert + 10;
+            consol.log(resert);
+        </code>
+        <ruby>家化萬事成<rt>가화만사성</rt></ruby>
+        <ruby>家<rt>가</rt>化<rt>화</rt>萬<rt>만</rt>事<rt>사</rt>成<rt>성</rt></ruby>
+        <time datetime="2022-08-11">2022년 08월 11일</time>
+</body>
+</html>
