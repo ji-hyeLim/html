@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>비교 연산자</title>
+    <script>
+        const num1 = 10;
+        const num2 = 20;
+        const num3 = 10;
+        const str = '20';
+        let result;
+        result = num1 > num2; // false
+        document.write(result,'<br>');
+        result = num1 < num2; // true
+        document.write(result, '<br>');
+        result = num1 <= num2; // true
+        document.write(result, '<br>');
+        result = num2 == str; // true
+        document.write(result, '<br>');
+        result = num1 != num2; // true
+        document.write(result, '<br>');
+        result = num2 === str; // false
+        document.write(result, '<br>');
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
